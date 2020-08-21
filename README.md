@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Anahita Hassan and I'm a senior at Mission San Jose High School. In my free time I like to code, practice Taekwondo, play viola, and eat food.  
+My name is Anahita Hassan and I'm a senior at Mission San Jose High School. Other than coding, I like to play viola, skateboard, sleep, and eat food.  
 
 [![Anahita's github stats](https://github-readme-stats.vercel.app/api?username=anahitahassan)](https://github.com/anuraghazra/github-readme-stats)
 
