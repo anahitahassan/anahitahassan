@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anahita's github stats](https://github-readme-stats.vercel.app/api?username=anahitahassan)](https://github.com/anuraghazra/github-readme-stats)
+![Anahita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anahitahassan&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahitahassan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **👋 Looking to collaborate on:** Any online or in person (Bay Area) Hackathons <br>
