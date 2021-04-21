@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anahita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anahitahassan&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahitahassan&layout=compact&theme=dracula&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahitahassan&layout=compact&theme=dracula&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 **👋 Looking to collaborate on:** Any online or in person (Bay Area) Hackathons <br>
 **🚀 Currently Learning:** ML & Data Analysis in Python, Google Firebase & APIs, React, Canvas/ChartJS, ApexCharts <br>
