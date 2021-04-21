@@ -14,20 +14,19 @@
 
 
 
-
-<a href="https://github.com/anahitahassan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anahitahassan.vercel.app/api?username=anahitahassan&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anahita's github stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anahitahassan&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anahita's github stats" />
 </a>
-<a href="https://github.com/anahitahassan/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anahitahassan.vercel.app/api/top-langs/?username=anahitahassan&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anahitahassan&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anahitahassan/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anahitahassan.vercel.app/api/pin/?username=anahitahassan&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anahitahassan&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anahitahassan.vercel.app/api/pin/?username=anahitahassan&repo=anahitahassan.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anahitahassan&repo=anahitahassan.github.io&theme=material-palenight" />
 </a>
