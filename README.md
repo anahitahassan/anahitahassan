@@ -11,13 +11,3 @@
 **📫 How to reach me:** Feel free to reach out via email at anahitarhassan@gmail.com <br>
 
 [![Anahita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anahitahassan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anahitahassan&layout=compact&theme=dracula">
-  <img align="center" src="https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<a href="https://github.com/anahitahassan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
