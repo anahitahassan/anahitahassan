@@ -10,4 +10,4 @@
 **🔭 Currently Working On:** Projects for Hackathons/Portfolio <br>
 **📫 How to reach me:** Feel free to reach out via email at anahitarhassan@gmail.com <br>
 
-[![Anahita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anahitahassan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anahita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anahitahassan&theme=dracula)](https://github.com/anahitahassan/github-readme-stats)
