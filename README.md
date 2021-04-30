@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Anahita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anahitahassan&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahitahassan&layout=compact&theme=tokyonight&card_width=300&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
+![Anahita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anahitahassan&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahitahassan&layout=compact&theme=synthwave&card_width=300&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
 
 **👋 Looking to collaborate on:** Any online or in person (Bay Area) Hackathons <br>
 **🚀 Currently Learning:** ML & Data Analysis in Python, Google Firebase & APIs, React, Canvas/ChartJS, ApexCharts <br>
@@ -10,4 +10,4 @@
 **🔭 Currently Working On:** Projects for Hackathons/Portfolio <br>
 **📫 How to reach me:** Feel free to reach out via email at anahitarhassan@gmail.com <br>
 
-[![Anahita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anahitahassan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anahita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anahitahassan&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
